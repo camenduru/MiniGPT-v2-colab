@@ -20,3 +20,9 @@ https://minigpt-v2.github.io/
 ## Output
 
 ![Screenshot 2023-10-15 235442](https://github.com/camenduru/MiniGPT-v2-colab/assets/54370274/ecc27211-13a8-4989-bba4-3ba14701ba5c)
+
+Artist: ayaya_ayay@discord ❤
+![Screenshot 2023-10-16 004828](https://github.com/camenduru/MiniGPT-v2-colab/assets/54370274/166e3160-eea1-4922-97d9-6b75ccc6aded)
+
+Artist: ayaya_ayay@discord ❤
+![Screenshot 2023-10-16 005415](https://github.com/camenduru/MiniGPT-v2-colab/assets/54370274/147f7336-51f2-4495-bc9c-f7f374b0c405)
