@@ -12,7 +12,8 @@
 https://github.com/Vision-CAIR/MiniGPT-4
 
 ## Paper
-https://github.com/Vision-CAIR/MiniGPT-4/blob/main/MiniGPTv2.pdf
+https://arxiv.org/abs/2310.09478 <br />
+https://github.com/Vision-CAIR/MiniGPT-4/blob/main/MiniGPTv2.pdf <br />
 
 ## Page
 https://minigpt-v2.github.io/
